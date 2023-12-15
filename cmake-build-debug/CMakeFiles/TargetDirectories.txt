@@ -1,0 +1,3 @@
+C:/Programozás/cpp/Repi console/v0.03/cmake-build-debug/CMakeFiles/v0_03.dir
+C:/Programozás/cpp/Repi console/v0.03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programozás/cpp/Repi console/v0.03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
